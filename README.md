@@ -7,11 +7,11 @@ Bootcamp) and I have 15 years of work experience developing my management
 and leadership skills. I am a friendly professional and I enjoy working in a team.
 I am looking for a new challenge to apply my skills and grow in the IT field.</h3>
 
-- 🌱 I’m currently learning **Javascript, React, Redux, Vite, Node.js, Express, Sequalize, MongoDB, PowerBI, Python**
+🌱 I’m currently learning **Javascript, React, Redux, Vite, Node.js, Express, Sequalize, MongoDB, PowerBI, Python**
 
-- 💬 Ask me about **PERN & MERN**
+💬 Ask me about **PERN & MERN**
 
-- 📫 How to reach me **martinmachado441@gmail.com**
+📫 How to reach me **martinmachado441@gmail.com**
 
 <a href="https://www.canva.com/design/DAFgpFQbcBc/MjkBpkMKP07V8FlBuKBR8g/view?utm_content=DAFgpFQbcBc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">         📄 Click here to know about my experiences</a>
 
