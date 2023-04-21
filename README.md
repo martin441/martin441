@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **martinmachado441@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFgpFQbcBc/MjkBpkMKP07V8FlBuKBR8g/view?utm_content=DAFgpFQbcBc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFgpFQbcBc/MjkBpkMKP07V8FlBuKBR8g/view?utm_content=DAFgpFQbcBc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+<a href="https://www.canva.com/design/DAFgpFQbcBc/MjkBpkMKP07V8FlBuKBR8g/view?utm_content=DAFgpFQbcBc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="blank">- 📄 Know about my experiences</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
