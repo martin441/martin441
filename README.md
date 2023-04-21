@@ -1,11 +1,8 @@
 ![Negro Blanco Rojo Simple Minimalista Formas Geométricas Presentación Tecnología Banner para LinkedIn (1)](https://user-images.githubusercontent.com/116099896/233720684-c75ac90a-2678-4455-b276-89136dfc7c4c.png)
 
 <h1 align="left">Hi 👋, I'm Martin Machado</h1>
-<h3 align="left">Web developer with previous training in Industrial Engineering and experience
-in project management. I have intensive training in Web Development (Coding
-Bootcamp) and I have 15 years of work experience developing my management
-and leadership skills. I am a friendly professional and I enjoy working in a team.
-I am looking for a new challenge to apply my skills and grow in the IT field.</h3>
+<h3 align="left">Web programmer with previous training in Industrial Engineering and experience in project management (PM). I have intensive training in Full Stack Development (Coding Bootcamp) and I have 15 years of work experience developing my management and leadership skills.
+I am a friendly professional, I enjoy working in a team and I am looking for a new challenge to learn, contribute and grow in the IT field.</h3>
 
 🌱 I’m currently learning **Javascript, React, Redux, Vite, Node.js, Express, Sequalize, MongoDB, PowerBI, Python**
 
