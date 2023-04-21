@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Martin Machado</h1>
-<h3 align="center">An enthusiastic web developer from Argentina</h3>
+<h3 align="center">Web developer with previous training in Industrial Engineering and experience
+in project management. I have intensive training in Web Development (Coding
+Bootcamp) and I have 15 years of work experience developing my management
+and leadership skills. I am a friendly professional and I enjoy working in a team.
+I am looking for a new challenge to apply my skills and grow in the IT field.</h3>
 
 - 🌱 I’m currently learning **Javascript, React, Redux, Vite, Node.js, Express, Sequalize, MongoDB, PowerBI, Python**
 
